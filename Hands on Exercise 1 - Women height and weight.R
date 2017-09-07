@@ -6,7 +6,7 @@
 
 getwd()
 
-setwd("C:\\YYYYYY\\AMMA 2017\\Data\\data_2017")
+setwd("C:/Users/lenovo/Desktop/Folders/Subjects/Term 4/AMMA")
 
 install.packages("data.table")
 install.packages("datasets")
